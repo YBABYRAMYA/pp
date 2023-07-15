@@ -1,0 +1,84 @@
+[
+{
+"project_name": "Omnifood-Restaurant",
+"image_url": "https://sriragavip.github.io/pp/port/omni.png",
+"description": "A website with 4 pages to explore the restaurant.",
+"source_link": "https://github.com/sriragavip/OmniFood_Restaurant-",
+"tech_stack": [
+"HTML",
+"CSS",
+"JavaScript",
+"JSON",
+"Figma"
+]
+},
+{
+"project_name": "Natours Website",
+"image_url": "https://sriragavip.github.io/pp/port/nat.png",
+"description": "A travel website with 4 pages to explore the world.",
+"source_link": "https://github.com/sriragavip/Natours_Travel",
+"tech_stack": [
+"HTML",
+"CSS",
+"JavaScript",
+"JSON",
+"Figma"
+]
+},
+{
+"project_name": "Disney+ Hotstar Clone",
+"image_url": "https://sriragavip.github.io/pp/port/hotstar.png",
+"description": "This repository contains clone of a Disney+ hotstar",
+"source_link": "https://github.com/sriragavip/hotstarclone.github.io",
+"tech_stack": [
+"HTML",
+"CSS",
+"JavaScript",
+"JSON",
+"Figma"
+]
+},
+{
+"project_name": "ML_Cancer_Prediction",
+"image_url": "https://sriragavip.github.io/pp/port/ml.png",
+"description": "This repository contains code for a machine learning model that predicts whether a patient has cancer.",
+"source_link": "https://github.com/sriragavip/ML_Cancer_Prediction",
+"tech_stack": [
+"Scikit-learn",
+"Pandas",
+"NumPy",
+"Machine Learning",
+"Decision Trees",
+"Random Forest"
+]
+},
+{
+"project_name": "IPL-Score-Predicition",
+"image_url": "https://sriragavip.github.io/pp/port/ipl.png",
+"description": "Predicting projected score of current innings of a cricket match after every 6 overs based on various parameters.",
+"source_link": "https://github.com/sriragavip/IPL-Score-Predicition",
+"tech_stack": [
+"Scikit-learn",
+"Pandas",
+"NumPy",
+"Machine Learning",
+"Decision Trees",
+"Random Forest",
+"HTML",
+"CSS"
+]
+},
+{
+"project_name": "AI-Summarizer",
+"image_url": "https://sriragavip.github.io/pp/port/ai.png",
+"description": " Created a project that utilizes Artificial Intelligence techniques to generate summaries of text documents.",
+"source_link": "https://github.com/sriragavip/AI_Summarizer",
+"tech_stack": [
+"Artificial Intelligence",
+"OpenAI",
+"HTML",
+"CSS",
+"Vite+React"
+]
+}
+]
